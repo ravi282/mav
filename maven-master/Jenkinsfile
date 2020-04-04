@@ -8,6 +8,8 @@ adding fourth
 
 adding third
 
+adding sixth
+
 node('master')
 
 {
